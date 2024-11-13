@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d0bbeab60c97daec",
+    "type": "split",
+    "children": [
+      {
+        "id": "67bd3441dc538fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a2104478c23fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 - Redefining 'Enough'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 - Redefining 'Enough'"
+            }
+          },
+          {
+            "id": "68418ef9ddc551af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 - I've had enough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 - I've had enough"
+            }
+          },
+          {
+            "id": "73ec24ec5fd974be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 - Redefining 'Enough'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 - Redefining 'Enough'"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b9567f9210eb6e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df67ae85624c01e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83e6c6bf2b907567",
+    "type": "split",
+    "children": [
+      {
+        "id": "f261cb8390979b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92df651c465538b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c175467c3232ae8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68dd460ebabe399f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc85c31dab0d3a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd7160bad7ade9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52427f79e7e92c36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.0 - Redefining 'Enough'.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.0 - Redefining 'Enough'"
+            }
+          },
+          {
+            "id": "1908d0d9c9c7b37f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.0 - Redefining 'Enough'.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.0 - Redefining 'Enough'"
+            }
+          },
+          {
+            "id": "542b1b6a352aea60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4850355dac748784",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.0 - Redefining 'Enough'.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.0 - Redefining 'Enough'"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73ec24ec5fd974be",
+  "lastOpenFiles": [
+    "1.2 - Enough about Paul.md",
+    "1.1 - I've had enough.md",
+    "1.0 - Redefining 'Enough'.md",
+    "Welcome.md"
+  ]
+}

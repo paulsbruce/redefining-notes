@@ -6,6 +6,7 @@
       {
         "id": "67bd3441dc538fc3",
         "type": "tabs",
+        "dimension": 62.61510128913444,
         "children": [
           {
             "id": "b1a2104478c23fea",
@@ -41,6 +42,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1.2 - Enough about Paul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 - Enough about Paul"
+            }
+          },
+          {
+            "id": "cbbc5bdf03325440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1 - Enough credentials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 - Enough credentials"
+            }
+          },
+          {
+            "id": "e1112c4a98c57409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 - Enough for your career.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 - Enough for your career"
+            }
+          },
+          {
+            "id": "bfe94b2e64724edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2 - Enough experience(s).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 - Enough experience(s)"
+            }
+          },
+          {
+            "id": "06960a99cfe325b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1.0 - Redefining 'Enough'.md",
                 "mode": "source",
                 "source": false
@@ -50,11 +107,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "b9567f9210eb6e02",
         "type": "tabs",
+        "dimension": 37.38489871086556,
         "children": [
           {
             "id": "df67ae85624c01e1",
@@ -122,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "dc85c31dab0d3a96",
@@ -199,6 +257,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,11 +266,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73ec24ec5fd974be",
+  "active": "06960a99cfe325b0",
   "lastOpenFiles": [
-    "1.2 - Enough about Paul.md",
     "1.1 - I've had enough.md",
+    "2.3 - Enough opportunity.md",
+    "2.2 - Enough experience(s).md",
+    "2.1 - Enough credentials.md",
+    "2.0 - Enough for your career.md",
+    "1.2 - Enough about Paul.md",
     "1.0 - Redefining 'Enough'.md",
+    "attachments/Pasted image 20241113125703.png",
+    "attachments",
+    "Pasted image 20241113125511.png",
     "Welcome.md"
   ]
 }

@@ -168,16 +168,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.3 - Enough process.md",
+                "file": "3.4 - Enough support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 - Enough process"
+              "title": "3.4 - Enough support"
+            }
+          },
+          {
+            "id": "a25240d2d76658fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.0 - Enough challenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 - Enough challenge"
+            }
+          },
+          {
+            "id": "6d52d924bbae8dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.1 - Enough to get where?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 - Enough to get where?"
+            }
+          },
+          {
+            "id": "43cabf01a6717afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.2 - Not enough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 - Not enough"
+            }
+          },
+          {
+            "id": "2bb894e9760da11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.3 - Never Enough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 - Never Enough"
+            }
+          },
+          {
+            "id": "a936913f31bf2e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 - Enough about Paul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 - Enough about Paul"
+            }
+          },
+          {
+            "id": "3a2af67a3eb7b939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.1 - Enough to get where?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 - Enough to get where?"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 17
       },
       {
         "id": "b9567f9210eb6e02",
@@ -336,20 +420,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71e51abcbb24ab79",
+  "active": "3a2af67a3eb7b939",
   "lastOpenFiles": [
+    "4.2 - Not enough.md",
+    "4.3 - Never Enough.md",
+    "4.4 - Enough said.md",
+    "attachments/Pasted image 20241114131921.png",
+    "attachments/Pasted image 20241114131910.png",
+    "attachments/Pasted image 20241114131919.png",
+    "4.1 - Enough to get where?.md",
+    "4.0 - Enough challenge.md",
+    "1.3 - Enough for us and right now.md",
+    "1.2 - Enough about Paul.md",
+    "1.1 - I've had enough.md",
+    "1.0 - Redefining 'Enough'.md",
+    "3.4 - Enough support.md",
+    "3.3 - Enough process.md",
     "3.2 - Enough synthesis.md",
     "3.1 - Enough learning.md",
-    "3.3 - Enough process.md",
     "3.0 - Enough for your journey.md",
     "2.3 - Enough opportunity.md",
     "2.2 - Enough experience(s).md",
     "2.1 - Enough credentials.md",
     "2.0 - Enough for your career.md",
-    "1.2 - Enough about Paul.md",
-    "3.4 - Enough support.md",
-    "1.1 - I've had enough.md",
-    "1.0 - Redefining 'Enough'.md",
     "attachments/Pasted image 20241113125703.png",
     "attachments",
     "Pasted image 20241113125511.png",

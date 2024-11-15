@@ -9,6 +9,7 @@ Redefining is a collection of thoughts, notes, and presentations by [Paul Bruce]
 # Recent works
 
 * Redefining 'Enough'
-    * [Obsidian Valut on Github](https://github.com/paulsbruce/redefining-notes/tree/main/Redefining%20Enough)
+    * [Obsidian Vault / Visualization](https://publish.obsidian.md/paulsbruce-redefining)
+    * [Files on Github](https://github.com/paulsbruce/redefining-notes/tree/main/Redefining%20Enough)
     * [Slides for Short-form Presentation](https://docs.google.com/presentation/d/1soEOSnicJwArxlSLgEgxRSMIU86OG2U28WvbHVKeZEw/edit?usp=sharing)
     * ASU lecture recording (will be published soon)

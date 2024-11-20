@@ -5,6 +5,9 @@ Redefining is a collection of thoughts, notes, and presentations by [Paul Bruce]
 * [LinkedIn](https://www.linkedin.com/in/paulsbruce)
 * [YouTube](https://www.youtube.com/watch?v=rqx4Rdzjg24&list=PLFXQmSmq7uXTElSlaOqUHCeVlJi5nGJ85)
 
+# FOR ASU STUDENTS:
+
+* [Anonymous poll questions](https://pollev.com​/paulbruce947)
 
 # Recent works
 

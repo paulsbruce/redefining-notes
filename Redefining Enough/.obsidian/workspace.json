@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.2 - Enough synthesis.md",
+                "file": "1.0 - Redefining 'Enough'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 - Enough synthesis"
+              "title": "1.0 - Redefining 'Enough'"
             }
           },
           {
@@ -404,6 +404,7 @@
   },
   "active": "570eba87e9c4c529",
   "lastOpenFiles": [
+    "3.2 - Enough synthesis.md",
     "2.1 - Enough credentials.md",
     "4.3 - Never enough.md",
     "4.2 - Not enough.md",
@@ -412,7 +413,6 @@
     "2.3 - Enough opportunity.md",
     "3.4 - Enough support.md",
     "3.3 - Enough process.md",
-    "3.2 - Enough synthesis.md",
     "3.1 - Enough learning.md",
     "3.0 - Enough for your journey.md",
     "2.2 - Enough experience(s).md",
